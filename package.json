@@ -1,0 +1,15 @@
+{
+  "name": "vkwallphotodownloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Maxim Telegin",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "vk-io": "^4.0.3"
+  }
+}
