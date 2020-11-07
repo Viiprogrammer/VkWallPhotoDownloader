@@ -10,6 +10,12 @@
   "license": "MIT",
   "dependencies": {
     "node-fetch": "^2.6.1",
-    "vk-io": "^4.0.3"
+    "vk-io": "^4.0.3",
+    "fs": "^0.0.1-security",
+    "progress": "^2.0.3",
+    "util": "^0.12.3",
+    "stream": "^0.0.2",
+    "dotenv": "^8.2.0",
+    "chalk": "^4.1.0"
   }
 }
